@@ -1,13 +1,7 @@
 {
-	"folders": [
-		{
-			"path": "../.VSCODE"
-		},
-		{
-			"path": "."
-		}
-	],
-	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "ASSETS"
-	}
+    "folders": [
+        {
+            "path": ".."
+        }
+    ]
 }
