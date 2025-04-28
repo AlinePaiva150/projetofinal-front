@@ -19,7 +19,7 @@ Freelances/PJ. <br/>
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="./ASSETS/images/review.png" width="100%">
+  <img alt="projeto" src="./ASSETS/images/review.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
